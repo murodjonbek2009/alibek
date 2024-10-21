@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(66, 8, 110);
+    color: #fff;
+}
+li{
+    list-style: none;
+}
+img{
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+}
+#inp{
+    margin-top: 20px;
+    width: 350px;
+}
+.search{
+    display: flex;
+    justify-content: center;
+}
+.search input{
+    font-size: 20px;
+}
+.fath{
+    display: flex;
+    flex-wrap: wrap;
+}
+.ul{
+    width: 200px;
+}
+.hidden{
+    display: none;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    font-size: 50px;
+    
+}
